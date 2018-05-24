@@ -11,8 +11,8 @@ depends = [
 
 setup(name='sync-slack',
       version='0.0.1',
-      author='Bittorrent',
-      url='http://bittorrent.com',
+      author='Resilio, Inc.',
+      url='https://resilio.com',
       packages = find_packages(),
       install_requires=depends
 )
